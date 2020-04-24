@@ -9,27 +9,28 @@ namespace CriticalThinking
     class ForLoop
     {
         //Member Variables
-        public int userNumber;
+        public int wordLength;
+        public string words;
         public int i;
         //Constructor
 
         public ForLoop()
         {
             i = 0;
-            userNumber = 0;
+            
+            
         }
 
 
         //Methods
         public void RunForLoop()
         {
-            Console.WriteLine("Please input a positive number");
-            int userNumber = Convert.ToInt32(Console.ReadLine());
-            
-
-            for (i = 0; i < (userNumber + 1); i++)
+            string words = "Hello World";
+            int count = 0;
+            foreach (char c in words)
             {
-                Console.WriteLine(("") + i); 
+                count++;
+                Console.WriteLine(("") + (count - 1)); 
             }
         }
     }   
