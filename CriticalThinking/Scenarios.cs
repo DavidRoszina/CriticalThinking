@@ -14,7 +14,7 @@ namespace CriticalThinking
         //Constructor
         public Scenarios()
         {
-            forLoop = new ForLoop("Running Loop");
+            forLoop = new ForLoop();
         }
         //Methods
         public void RunScenarios()
