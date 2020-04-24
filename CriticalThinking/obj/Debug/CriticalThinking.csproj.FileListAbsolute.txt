@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\devCodeCamp\Projects\CriticalThinking\CriticalThinking\CriticalThinking\bin\Debug\CriticalThinking.exe.config
+C:\Users\david\Desktop\devCodeCamp\Projects\CriticalThinking\CriticalThinking\CriticalThinking\bin\Debug\CriticalThinking.exe
+C:\Users\david\Desktop\devCodeCamp\Projects\CriticalThinking\CriticalThinking\CriticalThinking\bin\Debug\CriticalThinking.pdb
+C:\Users\david\Desktop\devCodeCamp\Projects\CriticalThinking\CriticalThinking\CriticalThinking\obj\Debug\CriticalThinking.csprojAssemblyReference.cache
+C:\Users\david\Desktop\devCodeCamp\Projects\CriticalThinking\CriticalThinking\CriticalThinking\obj\Debug\CriticalThinking.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\devCodeCamp\Projects\CriticalThinking\CriticalThinking\CriticalThinking\obj\Debug\CriticalThinking.exe
+C:\Users\david\Desktop\devCodeCamp\Projects\CriticalThinking\CriticalThinking\CriticalThinking\obj\Debug\CriticalThinking.pdb

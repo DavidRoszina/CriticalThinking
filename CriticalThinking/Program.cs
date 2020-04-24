@@ -10,6 +10,9 @@ namespace CriticalThinking
     {
         static void Main(string[] args)
         {
+            Scenarios thing = new Scenarios();
+            thing.RunScenarios();
+            Console.ReadLine();
         }
     }
 }

@@ -9,13 +9,27 @@ namespace CriticalThinking
     class ForLoop
     {
         //Member Variables
-
+        public string name;
+        public int i;
         //Constructor
-        public ForLoop()
+
+        public ForLoop(string name)
         {
-            for (int i = 0; i < 6; i++) ;
+            i = 0;
         }
 
+
         //Methods
-    }
+        public void RunForLoop()
+        {
+            for (int i = 0; i < 5;)
+            {
+                while (i < 5)
+                {
+                    Console.WriteLine(("") + i) ;
+                    i++;
+                }
+            }
+        }
+    }   
 }
