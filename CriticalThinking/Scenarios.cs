@@ -20,8 +20,9 @@ namespace CriticalThinking
         public void RunScenarios()
         {
             Console.WriteLine("David Roszina's Critical Thinking Worksheet");
-            forLoop.RunForLoop();
-            
+            forLoop.RunForLoop5();
+            forLoop.RunForLoop8();
+
         }
     }
 }
