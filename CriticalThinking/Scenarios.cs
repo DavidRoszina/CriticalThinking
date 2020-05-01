@@ -10,18 +10,21 @@ namespace CriticalThinking
     {
         //Member Variables
         public ForLoop forLoop;
+        public WhileLoop whileLoop;
         
         //Constructor
         public Scenarios()
         {
             forLoop = new ForLoop();
+            whileLoop = new WhileLoop();
         }
         //Methods
         public void RunScenarios()
         {
             Console.WriteLine("David Roszina's Critical Thinking Worksheet");
-            forLoop.RunForLoop5();
-            forLoop.RunForLoop8();
+            //forLoop.RunForLoop5();
+            //forLoop.RunForLoop8();
+            whileLoop.RunWhileLoop1();
 
         }
     }

@@ -38,13 +38,13 @@ namespace CriticalThinking
         public void RunForLoop8()
         {
             Console.WriteLine("Please enter a phrase:\n");
-            string phrase = Console.ReadLine();
-            
+            phrase = Console.ReadLine();
+            int l = 0;
             Console.WriteLine("The Characters in the string are : \n");
-            while  (l >= 0 && l < phrase.Length)
+            for  (l = 0; l < phrase.Length; l++)
             {
                 Console.WriteLine("{0}", phrase[l]);
-                l++;
+                
             }
             
         }
